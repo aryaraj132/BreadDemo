@@ -655,3 +655,8 @@ section {
     width: 50% !important;
   }
 }
+@media screen and (max-width:991px) {
+  .none-992{
+    display: none;
+  }
+}
