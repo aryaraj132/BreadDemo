@@ -362,7 +362,7 @@ section {
 }
 .macbook{
   position: relative;
-  background: url('/assets/img/MacBook\ -\ 1\ \(1\)\ 1.png');
+  background: url('assets/img/MacBook\ -\ 1\ \(1\)\ 1.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -582,7 +582,7 @@ section {
 .owl-nav .owl-next{
   height: 36px;
   width: 37px;
-  background: url('/assets/img/carousel-next.png') !important;
+  background: url('assets/img/carousel-next.png') !important;
   background-size: cover;
   background-repeat: no-repeat;
   margin-left: 5px;
@@ -593,7 +593,7 @@ section {
 .owl-nav .owl-prev{
   height: 36px;
   width: 37px;
-  background: url('/assets/img/carousel-prev.png') !important;
+  background: url('assets/img/carousel-prev.png') !important;
   background-size: cover;
   background-repeat: no-repeat;
   margin-right: 5px;
