@@ -362,11 +362,10 @@ section {
 }
 .macbook{
   position: relative;
-  background: url('/BreadDemo/assets/img/MacBook\ -\ 1\ \(1\)\ 1.png');
+  background: url('../img/MacBook\ -\ 1\ \(1\)\ 1.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 90vh;
 }
 .overlay{
     border: 1px solid white;
@@ -582,7 +581,7 @@ section {
 .owl-nav .owl-next{
   height: 36px;
   width: 37px;
-  background: url('/BreadDemo/assets/img/carousel-next.png') !important;
+  background: url('../img/carousel-next.png') !important;
   background-size: cover;
   background-repeat: no-repeat;
   margin-left: 5px;
@@ -593,7 +592,7 @@ section {
 .owl-nav .owl-prev{
   height: 36px;
   width: 37px;
-  background: url('/BreadDemo/assets/img/carousel-prev.png') !important;
+  background: url('../img/carousel-prev.png') !important;
   background-size: cover;
   background-repeat: no-repeat;
   margin-right: 5px;
